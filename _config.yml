@@ -5,3 +5,5 @@ author: Boda Huo
 url: https://bodah-silv.github.io
 # Optional: show excerpts on the home page
 show_excerpts: true
+header_pages:
+  - about.md
