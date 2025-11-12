@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Write a short bio here. You can add links like [GitHub](https://github.com/yourusername) or email: <you@example.com>.
+Hi, I'm Boda. I am a Master's student in Prof.Zhao's SafeAI Lab at CMU. I am currently working on tactile sensors and their integrations with robotics through the methods of RL. This site hosts my projects and notes.
