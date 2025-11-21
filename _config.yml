@@ -15,8 +15,6 @@ minima:
 nav:
   - text: Home
     url: /
-  - text: About
-    url: /about/
   - text: Research
     url: /research/
   - text: Course Projects
