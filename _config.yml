@@ -1,6 +1,6 @@
 title: Boda Huo
 description: Robot learning, visuo-tactile sensing, whole-body humanoid control
-url: ""        # set to https://bodah-silv.github.io after publishing
+url: "https://bodah-silv.github.io"        # set to https://bodah-silv.github.io after publishing
 baseurl: ""    # leave blank for user/organization site
 theme: minima
 markdown: kramdown
