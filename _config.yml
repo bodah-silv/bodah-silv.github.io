@@ -11,13 +11,16 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/bodah-silv" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/boda-huo" }
+# _config.yml (or _data/navigation.yml)
 nav:
-  - text: Home     # ← label changed
+  - text: Home
     url: /
-  - text: About    # ← keep your real about page
+  - text: About
     url: /about/
   - text: Research
     url: /research/
   - text: Course Projects
     url: /course-projects/
+  - text: Resume
+    url: /resume/
 
