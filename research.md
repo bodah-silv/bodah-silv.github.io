@@ -12,11 +12,11 @@ permalink: /research/
 
 ---
 
-## LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing  <span class="badge">CMU · Safe AI Lab</span>
-- Designed and fabricated a **221-taxel** piezoresistive tactile array; improving manufacturing repeatability/yield and updating the PCB to lower noise and speed assembly.
+## [LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing](https://linchangyi1.github.io/LocoTouch/)  <span class="badge">CMU · Safe AI Lab · CoRL ’25</span>
+- Designed and fabricated a **221-taxel** piezoresistive back pad; now improving **manufacturing repeatability/yield** and updating the **low-noise PCB** for faster assembly.
 - Developed a tactile-aware transport policy with a **teacher–student** pipeline (**PPO → DAgger**) and reliable **PD** tracking.
-- Demonstrated **zero-shot** sim-to-real transport of unsecured objects over long distances and varied terrains.
-- Citation: Lin, C.; Song, Y.R.; **Huo, B.**; *et al.* (2025). *LocoTouch…* CoRL ’25, PMLR 305: 2779–2801. (See PMLR link on the home page.)
+- Demonstrated **zero-shot** sim-to-real transport of unsecured objects over long distances and varied terrain.
+- Contributions: sensor design & calibration, sensing bring-up, policy evaluation/ablations, and real-world trials.
 
 ---
 
