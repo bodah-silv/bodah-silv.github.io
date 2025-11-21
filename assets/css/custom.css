@@ -18,8 +18,8 @@
 
 .contact-icons svg,
 .contact-icons .icon {
-  width: 22px !important;   /* actual icon size */
-  height: 22px !important;
+  width: 10px !important;   /* actual icon size */
+  height: 10px !important;
   max-width: none !important;
   display: inline-block !important;
   fill: currentColor;
