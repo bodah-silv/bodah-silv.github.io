@@ -1,1 +1,2 @@
-# This is the Jekyll + GitHub Pages starter for Boda's webpage.
+# Boda Huo's personal webpage.
+This is webpage is built on Jekyll and Github starter.
